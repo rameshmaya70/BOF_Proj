@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accounts</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>credirDebitTrans</string>
+			<key>title</key>
+			<string>$ 152.00</string>
+			<key>time</key>
+			<string>2 hrs</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>chequeBook</string>
+			<key>title</key>
+			<string>-$ 12.00</string>
+			<key>time</key>
+			<string>8 hrs</string>
+		</dict>
+	</array>
+	<key>Stock</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>NKE</string>
+			<key>stock</key>
+			<string>44.11</string>
+			<key>sensex</key>
+			<string>+1.12</string>
+		</dict>
+	</array>
+	<key>Deals</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>Toysrus</string>
+			<key>title</key>
+			<string>Toysrus offer you 5% cash back on usage of BOFA card</string>
+			<key>duration</key>
+			<string>Offer Valid</string>
+			<key>day</key>
+			<string>Today</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>levis</string>
+			<key>title</key>
+			<string>Sale unto 40% off on purchase of discounted apparel</string>
+			<key>duration</key>
+			<string>Offer Ends</string>
+			<key>day</key>
+			<string>Tomorrow</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>movieTickets</string>
+			<key>title</key>
+			<string>River Park Center Buy 1 Get 1 free movie tickets on any show.</string>
+			<key>duration</key>
+			<string>Offer Till</string>
+			<key>day</key>
+			<string>April&apos;15</string>
+		</dict>
+	</array>
+</dict>
+</plist>
